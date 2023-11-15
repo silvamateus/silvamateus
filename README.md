@@ -7,7 +7,7 @@ Web Developer
 I've been learning code since 2014, but started working on development on 2018. Started as a frontend developer and my career path guided me to fullstack.
 
 *   🌍  I'm based in Minas Gerais
-*   😄  Pronouns: He/Him
+*   😄  Pronouns: He/They
 
 ### Skills
 
